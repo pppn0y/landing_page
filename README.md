@@ -1,1 +1,1 @@
-Erster Commit
+Mein erstes Projekt von Odin. Eine Dummy Webseite.
